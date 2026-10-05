@@ -6,7 +6,7 @@ session_start();
 //  Sistem Pendaftaran Calon Asisten Praktikum Laboratorium
 // ============================================================
 //  Nama  : ALVIN ISATONI
-//  NIM   : 1020424500124
+//  NIM   : 102042500124
 //  Kelas : S1-SI-KJ-2502
 // ============================================================
 
